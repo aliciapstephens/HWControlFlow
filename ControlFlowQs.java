@@ -4,7 +4,7 @@ public class ControlFlowQs {
 	controlFlow();
 	}
 	
-	public static void controlFlow() {
+	public static void ControlFlow() {
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.println("Hello World!");
